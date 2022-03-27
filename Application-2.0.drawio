@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T21:34:47.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="HQD4Al6HxSYR_q8Dxc6n" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-27T21:37:47.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="e0LSYbqN3QWD147HeM8K" version="17.2.4" type="github" pages="3">
   <diagram id="SwhbsFWj8uXTI4qjEU29" name="Idea">
     <mxGraphModel dx="1171" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="ug-r2kqgYafla9vCd7H7-3" value="DB Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="bWf3XHARxma28C-KWlei-1" vertex="1">
           <mxGeometry x="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8z5ws6QsDyDKcSSMqBQu-11" value="&lt;p style=&quot;line-height: 1.5&quot;&gt;Auth Server - 8500&lt;br&gt;AdminPanel - 8200&lt;br&gt;Device Service - 8300&lt;/p&gt;&lt;p style=&quot;line-height: 1.5&quot;&gt;Website - 80&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;spacing=0;spacingLeft=10;spacingTop=-10;" parent="1" vertex="1">
+        <mxCell id="8z5ws6QsDyDKcSSMqBQu-11" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;Auth Server - 8500&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span&gt;AdminPanel - 8200&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span&gt;Device Service - 8300&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span&gt;Website - 80&lt;/span&gt;&lt;/p&gt;" style="rounded=0;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;spacing=0;spacingLeft=10;spacingTop=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5u70jstAUNzke8DoentI-9" value="" style="group" vertex="1" connectable="0" parent="1">
