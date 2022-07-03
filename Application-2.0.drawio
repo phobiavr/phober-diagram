@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T21:09:46.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="drky4tZMgwTx510smYC-" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-03T17:36:22.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Xl2vKlw7NQkY-4-wrg9q" version="20.0.4" type="github" pages="3">
   <diagram id="SwhbsFWj8uXTI4qjEU29" name="Idea">
     <mxGraphModel dx="1018" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
         <mxCell id="L41AXuC0XxM3nmPFvdM7-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="350" y="280" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="L41AXuC0XxM3nmPFvdM7-3" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="L41AXuC0XxM3nmPFvdM7-2" vertex="1">
+        <mxCell id="L41AXuC0XxM3nmPFvdM7-3" value="Notification Server" style="rounded=1;whiteSpace=wrap;html=1;" parent="L41AXuC0XxM3nmPFvdM7-2" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
         <UserObject label="" id="L41AXuC0XxM3nmPFvdM7-4">
